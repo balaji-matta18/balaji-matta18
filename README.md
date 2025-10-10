@@ -69,7 +69,7 @@ Here are a few technologies I've been working with recently:
 <h3 align="center">ResQLink</h3>
 <div align="center">
 <a href="https://github.com/balaji-matta18/ResQLink-backend" target="_blank">
-<img src="https://raw.githubusercontent.com/balaji-matta18/ResQLink/main/banner.png" alt="ResQLink Project Banner" width="100%">
+<img src="https://github.com/balaji-matta18/balaji-matta18/blob/main/images/resqlink_banner.jpg?raw=true" alt="ResQLink Project Banner" width="100%">
 </a>
 <p>
 <a href="https://github.com/balaji-matta18/ResQLink-backend" target="_blank">
