@@ -68,7 +68,7 @@ Here are a few technologies I've been working with recently:
 <td width="50%">
 <h3 align="center">ResQLink</h3>
 <div align="center">
-<a href="https://github.com/balaji-matta18/ResQLink-backend" target="_blank">
+<a href="https://github.com/balaji-matta18/ResQLink-backend.git" target="_blank">
 <img src="https://github.com/balaji-matta18/balaji-matta18/blob/main/images/resqlink_banner.jpg?raw=true" alt="ResQLink Project Banner" width="100%">
 </a>
 <p>
@@ -84,12 +84,12 @@ A real-time **ambulance tracking and blood donor network**. This modular Spring 
 <td width="50%">
 <h3 align="center">SpendBuddy</h3>
 <div align="center">
-<a href="https://github.com/balaji-matta18/SpendBuddy" target="_blank">
-<img src="https://raw.githubusercontent.com/balaji-matta18/SpendBuddy/main/banner.png" alt="SpendBuddy Project Banner" width="100%">
+<a href="https://github.com/balaji-matta18/spendBuddy-backend-api.git" target="_blank">
+<img src="https://github.com/balaji-matta18/balaji-matta18/blob/main/images/spendBuddy_banner.jpg?raw=true" alt="SpendBuddy Project Banner" width="100%">
 </a>
 <p>
 <a href="https://github.com/balaji-matta18/SpendBuddy" target="_blank">
-<img src="https://github.com/balaji-matta18/balaji-matta18/blob/main/images/spendBuddy_banner.jpg?raw=true">
+<img src="https://img.shields.io/badge/github-%23100000.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 <p>
