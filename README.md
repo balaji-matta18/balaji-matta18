@@ -114,7 +114,7 @@ A secure **expense tracking REST API** built with Test-Driven Development (TDD) 
 ### 🤝 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/balaji-matta" target="_blank">
+<a href="https://www.linkedin.com/in/matta-balaji/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:balajimatta.in@gmail.com" target="_blank">
