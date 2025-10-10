@@ -89,7 +89,7 @@ A real-time **ambulance tracking and blood donor network**. This modular Spring 
 </a>
 <p>
 <a href="https://github.com/balaji-matta18/SpendBuddy" target="_blank">
-<img src="https://img.shields.io/badge/github-%23100000.svg?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://github.com/balaji-matta18/balaji-matta18/blob/main/images/spendBuddy_banner.jpg?raw=true">
 </a>
 </p>
 <p>
