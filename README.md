@@ -77,7 +77,7 @@ Here are a few technologies I've been working with recently:
 </a>
 </p>
 <p>
-A real-time **ambulance tracking and blood donor network**. This modular Spring Boot backend features 50+ secure REST endpoints, role-based access control with JWT, and is containerised with Docker for deployment on AWS EC2.
+<b> A real-time ambulance tracking and blood donor network </b>. This modular Spring Boot backend features 50+ secure REST endpoints, role-based access control with JWT, and is containerised with Docker for deployment on AWS EC2.
 </p>
 </div>
 </td>
@@ -88,12 +88,12 @@ A real-time **ambulance tracking and blood donor network**. This modular Spring 
 <img src="https://github.com/balaji-matta18/balaji-matta18/blob/main/images/spendBuddy_banner.jpg?raw=true" alt="SpendBuddy Project Banner" width="100%">
 </a>
 <p>
-<a href="https://github.com/balaji-matta18/SpendBuddy" target="_blank">
+<a href="https://github.com/balaji-matta18/spendBuddy-backend-api.git" target="_blank">
 <img src="https://img.shields.io/badge/github-%23100000.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 <p>
-A secure **expense tracking REST API** built with Test-Driven Development (TDD) using JUnit 5. It features JWT-based role management and advanced data filtering, and is deployed on AWS.
+<b><span style="color:#00FF7F;">  A secure expense tracking REST API</span> </b> built with Test-Driven Development (TDD) using JUnit 5. It features JWT-based role management and advanced data filtering, and is deployed on AWS.
 </p>
 </div>
 </td>
