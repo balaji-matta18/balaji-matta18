@@ -109,7 +109,6 @@ Here are a few technologies I've been working with recently:
   <img src="https://gitststs.vercel.app/api/top-langs/?username=balaji-matta18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-
 ---
 
 ### 🤝 Connect with Me
