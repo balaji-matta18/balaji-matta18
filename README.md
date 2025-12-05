@@ -105,9 +105,10 @@ Here are a few technologies I've been working with recently:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balaji-matta18&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Balaji Matta's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-matta18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://gitststs.vercel.app/api?username=balaji-matta18&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Balaji Matta's GitHub Stats" />
+  <img src="https://gitststs.vercel.app/api/top-langs/?username=balaji-matta18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
 
 ---
 
