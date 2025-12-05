@@ -104,17 +104,17 @@ Here are a few technologies I've been working with recently:
 
 ### 📊 My GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<table>
+<tr>
+<td>
+<img src="https://gitststs.vercel.app/api?username=balaji-matta18&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_rank=true" />
+</td>
+<td>
+<img src="https://gitststs.vercel.app/api/top-langs/?username=balaji-matta18&layout=compact&theme=radical&hide_border=true" />
+</td>
+</tr>
+</table>
 
-  <div style="height: 250px;">
-    <img src="https://gitststs.vercel.app/api?username=balaji-matta18&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_rank=true" height="250"/>
-  </div>
-
-  <div style="height: 250px;">
-    <img src="https://gitststs.vercel.app/api/top-langs/?username=balaji-matta18&layout=compact&theme=radical&hide_border=true" height="250"/>
-  </div>
-
-</div>
 
 
 ---
